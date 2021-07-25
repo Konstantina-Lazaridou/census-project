@@ -13,7 +13,9 @@ Adam as optimizer.
 
 ## How to run
 `conda env create -f environment.yml`
+
 `conda activate census`
+
 `python src/services/main.py --filepath 'yourdatapath'`
 
 You will see the attribute value counts, details about the missing data, the model summary and then
