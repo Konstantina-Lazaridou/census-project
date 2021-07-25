@@ -3,7 +3,7 @@
 ## Dataset
 The dataset is the Cencus Income Data Set. It contains continous and categorical attributes. 
 Each row corresponds to a person and it contains their income range and personal characteristics.
-You can download the data [here][https://archive.ics.uci.edu/ml/datasets/census+income].
+You can download the data [here](https://archive.ics.uci.edu/ml/datasets/census+income).
 
 ## Model
 The model is a multi-input fully connected neural network built with Functional API of Keras.
