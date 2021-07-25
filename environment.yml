@@ -1,0 +1,8 @@
+name: census
+dependencies:
+  - python=3.8
+  - pip
+  - tensorflow
+  - keras
+  - pandas
+  - scikit-learn
